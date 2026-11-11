@@ -1,0 +1,1 @@
+"""AI answer fact-checking application."""
